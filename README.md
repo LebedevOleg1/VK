@@ -31,8 +31,8 @@ std::this_thread::sleep_for(std::chrono::seconds(7));
 ```
 
 ## ВЫВОД
-Task 2 executed at 1749585723
-Task 1 executed at 1749585725
+Task 2 executed at 1749585723 \n
+Task 1 executed at 1749585725 \n
 Task 3 executed at 1749585727
 
 
